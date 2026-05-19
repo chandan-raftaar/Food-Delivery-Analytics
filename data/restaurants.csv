@@ -1,0 +1,301 @@
+restaurant_id,city,cuisine,rating,avg_order_value,avg_prep_time_min,is_cloud_kitchen
+R0000,Mumbai,Desserts,3.7,250,35,1
+R0001,Hyderabad,Burger,3.3,400,42,0
+R0002,Mumbai,Biryani,4.0,200,20,1
+R0003,Mumbai,Pizza,4.3,250,30,1
+R0004,Chennai,Healthy,3.8,250,17,0
+R0005,Delhi,Healthy,4.1,150,36,1
+R0006,Delhi,Biryani,3.5,250,29,0
+R0007,Bengaluru,Pizza,4.2,250,35,0
+R0008,Delhi,South Indian,3.5,300,34,1
+R0009,Delhi,Desserts,4.0,400,24,0
+R0010,Mumbai,Biryani,4.2,150,23,0
+R0011,Pune,Chinese,3.9,200,25,1
+R0012,Chennai,Thai,3.4,250,28,0
+R0013,Delhi,Thai,3.4,250,38,1
+R0014,Mumbai,Continental,4.5,300,26,1
+R0015,Mumbai,Healthy,3.6,250,21,0
+R0016,Bengaluru,North Indian,4.2,150,25,0
+R0017,Mumbai,Chinese,3.9,300,31,0
+R0018,Hyderabad,South Indian,3.5,400,39,0
+R0019,Mumbai,Pizza,3.7,250,23,0
+R0020,Chennai,South Indian,4.6,250,36,0
+R0021,Bengaluru,Healthy,5.0,200,37,0
+R0022,Mumbai,North Indian,3.8,200,27,0
+R0023,Delhi,Pizza,3.7,200,30,1
+R0024,Mumbai,Biryani,3.2,250,17,1
+R0025,Chennai,Continental,3.2,400,19,1
+R0026,Pune,Pizza,3.6,250,37,0
+R0027,Bengaluru,Healthy,3.7,200,31,0
+R0028,Bengaluru,South Indian,3.9,200,42,1
+R0029,Bengaluru,Thai,4.2,250,15,0
+R0030,Delhi,South Indian,4.0,250,35,0
+R0031,Mumbai,South Indian,4.2,250,23,1
+R0032,Delhi,South Indian,3.7,250,37,0
+R0033,Mumbai,Continental,3.9,250,31,0
+R0034,Delhi,Healthy,3.8,200,43,1
+R0035,Hyderabad,Chinese,3.4,150,27,1
+R0036,Mumbai,Continental,3.1,150,29,0
+R0037,Mumbai,Continental,3.6,200,42,0
+R0038,Bengaluru,Healthy,2.9,150,35,0
+R0039,Mumbai,Desserts,3.4,200,22,1
+R0040,Mumbai,Continental,4.1,300,22,0
+R0041,Mumbai,Pizza,4.0,300,42,0
+R0042,Chennai,Desserts,3.9,250,16,1
+R0043,Chennai,Healthy,4.4,400,37,0
+R0044,Hyderabad,Burger,3.6,200,24,1
+R0045,Mumbai,Burger,4.2,400,19,1
+R0046,Delhi,Chinese,3.6,250,30,0
+R0047,Mumbai,Biryani,4.0,250,39,1
+R0048,Bengaluru,Continental,4.0,250,33,0
+R0049,Mumbai,South Indian,4.0,150,15,1
+R0050,Bengaluru,Biryani,3.7,500,27,1
+R0051,Mumbai,Biryani,4.0,200,18,0
+R0052,Mumbai,Desserts,4.1,200,21,1
+R0053,Pune,Pizza,3.3,200,15,1
+R0054,Mumbai,Burger,4.2,150,16,0
+R0055,Chennai,Thai,3.4,200,30,0
+R0056,Bengaluru,Pizza,3.5,150,28,0
+R0057,Bengaluru,Burger,4.0,200,19,0
+R0058,Mumbai,Thai,4.1,400,39,1
+R0059,Delhi,Continental,4.0,200,28,1
+R0060,Bengaluru,North Indian,4.0,200,31,0
+R0061,Bengaluru,Healthy,3.4,250,26,0
+R0062,Mumbai,North Indian,3.7,500,34,0
+R0063,Mumbai,Pizza,3.1,200,26,0
+R0064,Delhi,Chinese,3.5,200,44,0
+R0065,Mumbai,Pizza,3.4,500,17,0
+R0066,Bengaluru,Desserts,3.9,200,44,0
+R0067,Chennai,Thai,4.8,250,35,1
+R0068,Bengaluru,Thai,4.2,200,35,1
+R0069,Delhi,Continental,3.0,400,40,1
+R0070,Hyderabad,North Indian,3.3,500,16,0
+R0071,Pune,Continental,3.4,300,35,1
+R0072,Mumbai,North Indian,3.2,200,39,1
+R0073,Delhi,Thai,3.8,250,35,1
+R0074,Mumbai,Pizza,4.0,200,29,0
+R0075,Delhi,Chinese,3.4,400,25,0
+R0076,Mumbai,Thai,3.8,400,24,0
+R0077,Mumbai,Biryani,4.0,250,32,0
+R0078,Hyderabad,Burger,4.2,300,37,1
+R0079,Bengaluru,North Indian,4.0,200,36,1
+R0080,Chennai,North Indian,4.0,250,37,0
+R0081,Hyderabad,Desserts,3.9,250,38,0
+R0082,Mumbai,Continental,3.5,250,40,1
+R0083,Mumbai,Healthy,3.6,250,35,0
+R0084,Mumbai,Healthy,3.4,150,16,1
+R0085,Pune,Desserts,4.5,300,21,1
+R0086,Bengaluru,Thai,3.3,400,21,0
+R0087,Delhi,North Indian,4.3,500,38,1
+R0088,Delhi,South Indian,3.3,300,21,0
+R0089,Chennai,Chinese,4.2,250,40,1
+R0090,Hyderabad,Biryani,4.3,200,37,1
+R0091,Delhi,Pizza,4.4,500,28,1
+R0092,Bengaluru,Pizza,3.5,250,43,0
+R0093,Mumbai,Healthy,4.0,300,39,0
+R0094,Bengaluru,Healthy,3.7,300,38,0
+R0095,Chennai,Desserts,3.5,300,16,0
+R0096,Delhi,North Indian,3.9,150,16,1
+R0097,Hyderabad,Continental,4.2,200,37,0
+R0098,Delhi,Pizza,3.7,300,40,1
+R0099,Mumbai,North Indian,4.0,400,29,0
+R0100,Bengaluru,Biryani,3.5,300,25,0
+R0101,Mumbai,Chinese,3.5,250,43,1
+R0102,Bengaluru,Chinese,3.8,250,24,0
+R0103,Delhi,Pizza,3.8,300,17,1
+R0104,Bengaluru,South Indian,4.2,300,31,0
+R0105,Delhi,Desserts,3.4,250,23,1
+R0106,Delhi,Pizza,4.8,200,44,0
+R0107,Mumbai,Biryani,3.2,400,29,1
+R0108,Bengaluru,South Indian,4.0,250,44,0
+R0109,Mumbai,Burger,3.8,300,28,0
+R0110,Mumbai,Thai,3.6,200,33,1
+R0111,Delhi,Healthy,3.8,200,31,1
+R0112,Bengaluru,Healthy,4.2,400,36,0
+R0113,Hyderabad,South Indian,4.2,150,34,0
+R0114,Hyderabad,Pizza,3.8,250,44,0
+R0115,Bengaluru,Healthy,4.0,250,31,0
+R0116,Delhi,North Indian,3.4,300,30,1
+R0117,Delhi,Healthy,3.8,200,34,0
+R0118,Delhi,Chinese,4.1,200,22,0
+R0119,Bengaluru,Healthy,3.0,400,41,1
+R0120,Bengaluru,Burger,3.9,250,21,0
+R0121,Bengaluru,Desserts,3.8,200,26,1
+R0122,Mumbai,South Indian,4.4,200,15,1
+R0123,Hyderabad,North Indian,4.0,500,40,0
+R0124,Delhi,Burger,4.1,200,26,1
+R0125,Chennai,Chinese,3.8,250,39,0
+R0126,Bengaluru,Pizza,4.2,250,20,0
+R0127,Bengaluru,Thai,4.1,400,30,0
+R0128,Delhi,Chinese,3.4,300,32,0
+R0129,Bengaluru,South Indian,4.0,250,33,0
+R0130,Mumbai,South Indian,4.4,150,37,0
+R0131,Mumbai,South Indian,4.3,400,17,1
+R0132,Bengaluru,Burger,3.9,250,43,1
+R0133,Delhi,South Indian,4.0,400,17,1
+R0134,Mumbai,Desserts,4.3,250,19,0
+R0135,Delhi,Desserts,3.4,300,17,0
+R0136,Hyderabad,Desserts,4.1,150,33,0
+R0137,Bengaluru,South Indian,3.1,300,41,0
+R0138,Chennai,Desserts,4.2,200,19,0
+R0139,Mumbai,Continental,3.7,250,28,1
+R0140,Chennai,Healthy,3.9,200,35,0
+R0141,Bengaluru,Healthy,3.7,200,30,0
+R0142,Delhi,South Indian,3.9,200,42,0
+R0143,Mumbai,Biryani,4.0,200,39,0
+R0144,Hyderabad,Burger,4.2,400,15,0
+R0145,Delhi,Thai,4.4,250,44,0
+R0146,Mumbai,Burger,3.9,300,31,1
+R0147,Chennai,Continental,3.2,150,25,0
+R0148,Mumbai,Burger,4.4,250,44,1
+R0149,Bengaluru,Continental,3.3,250,23,0
+R0150,Delhi,Continental,3.7,500,35,0
+R0151,Delhi,Burger,3.7,300,18,1
+R0152,Mumbai,Thai,3.9,250,16,0
+R0153,Mumbai,Continental,3.4,300,42,0
+R0154,Pune,Desserts,3.4,200,23,1
+R0155,Delhi,North Indian,3.9,250,36,0
+R0156,Bengaluru,North Indian,3.6,150,39,0
+R0157,Bengaluru,Pizza,4.4,200,19,1
+R0158,Pune,South Indian,3.7,200,18,1
+R0159,Delhi,Chinese,3.5,300,37,0
+R0160,Chennai,Desserts,4.6,250,19,0
+R0161,Mumbai,Desserts,4.1,300,38,1
+R0162,Delhi,Chinese,5.0,250,38,0
+R0163,Delhi,South Indian,3.1,150,43,0
+R0164,Bengaluru,North Indian,4.0,300,32,0
+R0165,Delhi,Thai,4.1,300,27,1
+R0166,Delhi,Continental,3.9,400,19,0
+R0167,Mumbai,Chinese,3.8,250,40,1
+R0168,Hyderabad,Thai,4.4,300,38,0
+R0169,Hyderabad,Pizza,4.1,300,33,0
+R0170,Hyderabad,Continental,3.2,200,37,1
+R0171,Hyderabad,Burger,3.6,200,17,1
+R0172,Mumbai,Desserts,3.4,150,36,0
+R0173,Mumbai,Continental,3.9,200,32,0
+R0174,Hyderabad,Burger,4.3,250,20,1
+R0175,Mumbai,North Indian,3.7,500,20,1
+R0176,Bengaluru,Burger,3.8,250,38,0
+R0177,Mumbai,Burger,3.5,300,19,0
+R0178,Bengaluru,Biryani,4.2,300,44,1
+R0179,Delhi,Chinese,4.4,200,15,1
+R0180,Mumbai,Continental,3.9,150,22,1
+R0181,Bengaluru,Chinese,4.5,250,42,0
+R0182,Pune,Continental,3.7,300,39,0
+R0183,Hyderabad,Desserts,3.3,500,15,1
+R0184,Hyderabad,Healthy,4.2,250,35,0
+R0185,Delhi,Chinese,3.9,400,42,0
+R0186,Hyderabad,Chinese,3.7,250,20,0
+R0187,Hyderabad,Desserts,3.9,300,34,0
+R0188,Delhi,Continental,3.3,250,28,0
+R0189,Pune,Desserts,3.2,150,25,1
+R0190,Bengaluru,Thai,3.9,150,16,1
+R0191,Chennai,Burger,4.1,150,35,0
+R0192,Mumbai,Desserts,4.5,250,44,0
+R0193,Mumbai,Continental,4.3,300,44,0
+R0194,Bengaluru,North Indian,4.2,200,18,1
+R0195,Mumbai,Desserts,4.4,250,27,0
+R0196,Delhi,South Indian,4.1,200,21,1
+R0197,Pune,Desserts,3.8,300,20,0
+R0198,Pune,Chinese,4.3,300,17,0
+R0199,Pune,Thai,4.3,300,23,1
+R0200,Mumbai,Biryani,3.9,250,28,0
+R0201,Pune,Desserts,3.4,200,34,0
+R0202,Mumbai,Healthy,3.2,300,25,0
+R0203,Hyderabad,South Indian,4.2,200,19,0
+R0204,Bengaluru,North Indian,4.1,200,28,0
+R0205,Mumbai,Desserts,4.1,200,33,0
+R0206,Pune,Burger,4.3,300,22,1
+R0207,Chennai,Burger,3.5,300,41,1
+R0208,Delhi,South Indian,3.1,300,21,1
+R0209,Hyderabad,Chinese,4.1,250,41,0
+R0210,Bengaluru,Pizza,4.4,200,41,1
+R0211,Delhi,Chinese,4.0,400,21,0
+R0212,Delhi,South Indian,3.3,250,38,0
+R0213,Bengaluru,Chinese,4.0,250,37,0
+R0214,Bengaluru,Burger,3.5,250,17,1
+R0215,Bengaluru,Thai,3.3,200,17,0
+R0216,Delhi,Pizza,3.9,200,32,1
+R0217,Bengaluru,Burger,4.0,250,27,0
+R0218,Mumbai,North Indian,3.9,200,15,0
+R0219,Mumbai,Burger,4.1,200,19,0
+R0220,Delhi,Chinese,3.6,400,42,1
+R0221,Delhi,Thai,3.9,250,18,0
+R0222,Delhi,Pizza,3.7,250,30,1
+R0223,Mumbai,Desserts,3.8,300,29,1
+R0224,Mumbai,Pizza,4.0,500,43,1
+R0225,Mumbai,Burger,4.3,200,41,0
+R0226,Hyderabad,Desserts,4.0,300,32,1
+R0227,Mumbai,South Indian,4.1,250,31,1
+R0228,Bengaluru,Continental,3.9,200,28,0
+R0229,Delhi,Burger,4.1,200,28,1
+R0230,Mumbai,Healthy,4.3,250,33,0
+R0231,Hyderabad,Burger,4.7,300,43,0
+R0232,Mumbai,South Indian,4.4,200,20,0
+R0233,Delhi,Pizza,3.9,250,27,0
+R0234,Bengaluru,North Indian,4.4,300,32,0
+R0235,Mumbai,Desserts,4.1,250,40,0
+R0236,Mumbai,Healthy,3.7,400,29,1
+R0237,Hyderabad,Continental,4.1,400,43,1
+R0238,Pune,South Indian,3.4,250,37,1
+R0239,Mumbai,Continental,4.1,500,41,0
+R0240,Hyderabad,Biryani,4.6,150,21,1
+R0241,Delhi,Healthy,4.2,150,41,0
+R0242,Pune,Healthy,4.4,250,33,1
+R0243,Hyderabad,Biryani,3.7,250,44,0
+R0244,Bengaluru,Healthy,4.1,250,31,0
+R0245,Delhi,Burger,4.2,250,23,1
+R0246,Mumbai,Biryani,3.8,200,25,0
+R0247,Bengaluru,Pizza,4.2,200,19,0
+R0248,Bengaluru,Biryani,4.1,400,16,1
+R0249,Chennai,Pizza,4.2,400,29,0
+R0250,Chennai,North Indian,3.5,300,38,0
+R0251,Hyderabad,Chinese,4.4,300,26,0
+R0252,Pune,Healthy,4.1,250,24,0
+R0253,Hyderabad,Desserts,3.9,200,24,0
+R0254,Bengaluru,Desserts,3.9,250,34,1
+R0255,Bengaluru,Chinese,3.9,300,25,0
+R0256,Bengaluru,Thai,3.6,250,24,1
+R0257,Bengaluru,Burger,4.4,150,42,0
+R0258,Bengaluru,Healthy,4.3,500,21,0
+R0259,Mumbai,Healthy,4.3,300,28,1
+R0260,Hyderabad,Chinese,4.5,200,27,1
+R0261,Hyderabad,Pizza,4.0,250,19,1
+R0262,Delhi,Burger,3.2,400,43,1
+R0263,Chennai,South Indian,4.2,150,33,0
+R0264,Mumbai,Desserts,4.1,250,24,0
+R0265,Chennai,South Indian,4.5,250,22,1
+R0266,Mumbai,Biryani,4.3,250,32,0
+R0267,Bengaluru,Pizza,4.0,300,15,0
+R0268,Chennai,Thai,3.8,250,19,0
+R0269,Mumbai,South Indian,4.3,150,25,1
+R0270,Mumbai,Desserts,2.8,150,34,0
+R0271,Mumbai,Desserts,4.0,150,25,0
+R0272,Delhi,Desserts,4.3,250,30,0
+R0273,Pune,North Indian,3.9,300,24,1
+R0274,Bengaluru,Healthy,3.7,200,29,0
+R0275,Chennai,South Indian,4.0,250,21,0
+R0276,Bengaluru,Biryani,4.4,300,29,1
+R0277,Mumbai,South Indian,4.1,200,43,1
+R0278,Bengaluru,Biryani,3.6,250,39,1
+R0279,Hyderabad,Desserts,4.4,300,30,1
+R0280,Bengaluru,Burger,4.5,250,20,0
+R0281,Delhi,Biryani,3.6,200,25,0
+R0282,Bengaluru,Pizza,5.0,250,31,0
+R0283,Bengaluru,Healthy,3.9,500,29,1
+R0284,Hyderabad,Healthy,4.3,250,30,0
+R0285,Bengaluru,North Indian,4.2,250,38,1
+R0286,Bengaluru,Continental,3.6,250,16,1
+R0287,Bengaluru,South Indian,3.7,150,18,0
+R0288,Delhi,Chinese,3.9,250,33,0
+R0289,Delhi,North Indian,3.2,200,20,0
+R0290,Bengaluru,Chinese,4.2,200,32,0
+R0291,Bengaluru,Continental,3.1,250,35,0
+R0292,Mumbai,Healthy,3.9,150,25,1
+R0293,Mumbai,Pizza,3.6,250,23,0
+R0294,Chennai,Desserts,4.1,200,17,0
+R0295,Hyderabad,Desserts,3.0,150,16,0
+R0296,Delhi,Biryani,3.2,300,32,1
+R0297,Mumbai,North Indian,3.7,400,29,1
+R0298,Delhi,Continental,4.1,200,39,1
+R0299,Hyderabad,Pizza,4.0,250,36,1
